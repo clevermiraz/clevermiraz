@@ -4,7 +4,7 @@
 
 
 ## I'm a Student!!
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects here.
 - 🌱 I’m currently learning React and Aws.
 - 😎 I know python,django,react,javascript,html,css,pandas
 - 👯 I’m looking to collaborate on open source
