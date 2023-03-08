@@ -49,6 +49,14 @@
 <a href='https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N' target="_blank">
     <img src="img/LWS-Certificate-Redux.jpg" alt="1" style="width: 260px;">
 </a>
+
+<a href='https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N' target="_blank">
+    <img src="img/LWS-Recommendation-Letter-Redux.jpg" alt="1" style="width: 260px;">
+</a>
+
+<a href='https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N' target="_blank">
+    <img src="img/LWS-Report-Card.jpg" alt="1" style="width: 260px;">
+</a>
 </div>
 <br><br>
 
