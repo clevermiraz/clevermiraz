@@ -37,8 +37,17 @@
 ### My profile at HackerRank: https://www.hackerrank.com/mz_miraz
 
 <div class='cert'>
-<a href='https://www.hackerrank.com/certificates/d4becfbc5b24'>
+<a href='https://www.hackerrank.com/certificates/d4becfbc5b24' target="_blank">
     <img src="img/python_certificate.png" alt="1" style="width: 260px;">
+</a>
+</div>
+<br><br>
+
+### Verify LWS Certificate: https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N
+
+<div class='cert'>
+<a href='https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N' target="_blank">
+    <img src="img/LWS-Certificate-Redux.jpg" alt="1" style="width: 260px;">
 </a>
 </div>
 <br><br>
