@@ -1,54 +1,48 @@
-### Hello World, I'm Miraz  👋
+<h1 align="center">
+    Hello there, I'm Miraz <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
+</h1>
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<div class='awards'>
+    <img src="img/a1.JPG" alt="a" height="90%" width="90%">
+</div>
 
+<h4 align="center">
+    I am a Python programmer with 5 years of experience in software engineering. I specialize in developing user-friendly applications and web services using Python. I also have a good understanding of object-oriented programming and functional programming. I am experienced in using frameworks such as Django, as well as libraries such as NumPy, Pandas, and SciPy. Additionally, I have developed machine learning projects using TensorFlow and Keras.and I am looking to expand my knowledge and experience in the field of Python programming.
+    
+     If you're here please give me stars ⭐ And don't forget to follow
+    
+</h4>
 
-## I'm a Student!!
-- ✍ You can find my projects here.
-- 🌱 I’m currently learning React and Aws.
-- 😎 I know python,django,react,javascript,html,css,pandas
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 3 languages ( English, hindi, Bangla)
+[![Miraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=clevermiraz&show_icons=true&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clevermiraz&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Connect with me:
 
+<p align="left" dir="auto">
+<!-- <a href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="img/Telegram.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
+<a href="https://vk.com/bugrinroman" rel="nofollow"><img align="center" src="img/vk.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/roman.bugrin/" rel="nofollow"><img align="center" src="img/inst.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a> -->
+<a a rel="noopener" data-link="mailto:mirazhs@proton.me" href="mailto:mirazhs@proton.me" target="_top"><img align="center" src="img/m.svg" alt="1" height="50" width="50" style="max-width: 100%;"></a>
+</p>
 
-### Languages and Tools:
+### My languages:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+<p align="left" dir="auto">
+    <img align="center" src="img/python.svg" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="img/js.svg" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="img/html.png" alt="1" height="40" width="40" style="max-width: 100%;">
+    <img align="center" src="img/css.svg" alt="1" height="44" width="44" style="max-width: 100%;">
+</p>
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+### My profile at HackerRank: https://www.hackerrank.com/mz_miraz
 
-<br />
-<br />
----
+<div class='cert'>
+<a href='https://www.hackerrank.com/certificates/d4becfbc5b24'>
+    <img src="img/python_certificate.png" alt="1" style="width: 260px;">
+</a>
+</div>
+<br><br>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Miraz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=clevermiraz&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Miraz's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevermiraz" />
-
-</details>
-
-
-[instagram]: https://www.instagram.com/miraz_hossain__/
-[linkedin]: https://linkedin.com/in/miraz27
+[![GitHub](https://img.shields.io/badge/dynamic/json?label=Followers&color=red&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGood4lien&longCache=true)](https://github.com/clevermiraz)
+![](https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/clevermiraz)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=https://github.com/clevermiraz&color=Chartreuse)
