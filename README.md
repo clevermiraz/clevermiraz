@@ -15,7 +15,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 ### 🔭 I’m working on
 
 -   Share My knowledge with make content.
--   Growing [chapterclose](https://chapterclose.com){target="_blank"} to 2k/month visitors.
+-   Growing [chapterclose](https://chapterclose.com) to 2k/month visitors.
 
 <h4 align="center">
   
