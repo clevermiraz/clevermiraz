@@ -49,7 +49,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <a href="https://medium.com/@mirazhs" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="mailto:mirazhs@gmail.com" target="_blank">
+  <a href="mailto:mirazhs@protonmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
