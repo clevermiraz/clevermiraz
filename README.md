@@ -90,11 +90,9 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 </div>
 <br><br>
 
-[![Miraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=clevermiraz&show_icons=true&hide_border=true&hide=contribs)](https://github.com/clevermiraz/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clevermiraz&hide_border=true&layout=compact)](https://github.com/clevermiraz/github-readme-stats)
+[![Miraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=clevermiraz&rank_icon=github&include_all_commits=true)](https://github.com/clevermiraz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clevermiraz&hide_border=true&layout=compact)](https://github.com/clevermiraz)
 
 <!-- Show Flower stars and Visitor Badge -->
-
-[![GitHub](https://img.shields.io/badge/dynamic/json?label=Followers&color=red&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dclevemiraz&longCache=true)](https://github.com/clevermiraz)
 ![](https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/clevermiraz)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=https://github.com/clevermiraz&color=Chartreuse)
+![Visitor count](https://komarev.com/ghpvc/?username=clevermiraz&color=blue&style=for-the-badge)
