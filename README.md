@@ -90,8 +90,8 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 </div>
 <br><br>
 
-[![Miraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=clevermiraz&show_icons=true&hide_border=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clevermiraz&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Miraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=clevermiraz&show_icons=true&hide_border=true&hide=contribs)](https://github.com/clevermiraz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clevermiraz&hide_border=true&layout=compact)](https://github.com/clevermiraz/github-readme-stats)
 
 <!-- Show Flower stars and Visitor Badge -->
 
