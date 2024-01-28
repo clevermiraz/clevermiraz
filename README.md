@@ -9,7 +9,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 <div display="flex">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://camo.githubusercontent.com/08fce5ab005e9b770295d3ce978d1e26386596c2f2a19589f165e21030183dcc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446a616e676f26636f6c6f723d303932453230266c6f676f3d446a616e676f266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Django"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </div>
 
 ### 🔭 I’m working on
@@ -26,9 +26,9 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://camo.githubusercontent.com/910e20b52408beae57b2a6cd38022f6aba900989afd80e3fb6a45f5643e7d102/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d54687265652e6a7326636f6c6f723d303030303030266c6f676f3d54687265652e6a73266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Three.Js"/>
-  <img src="https://camo.githubusercontent.com/dac019950eef8d01273165bad0311438bbb0d69f649715ac7720860399db50a4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d576562332e6a7326636f6c6f723d463136383232266c6f676f3d576562332e6a73266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Web3.js"/>
-  <img src="https://camo.githubusercontent.com/ea872adb9aba9cf6b4e976262f6d4b83b97972d0d5a7abccfde68eb2ae55325f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4f70656e414926636f6c6f723d343132393931266c6f676f3d4f70656e4149266c6f676f436f6c6f723d464646464646266c6162656c3d" alt='openAI' />
+  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.Js"/>
+  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt='openAI' />
 </div>
 
 ### Connect with me:
@@ -44,7 +44,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://facebook.com/mirazhs.xy" target="_blank">
-    <img src="https://camo.githubusercontent.com/ae469df0ca892760cf6edd0c12b154d6d18dd56c019ad0fc12d881c17d3db3d3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d46616365626f6f6b26636f6c6f723d313837374632266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://medium.com/@mirazhs" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
