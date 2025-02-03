@@ -76,7 +76,25 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
 <br>
 
-#### Verify LWS Certificate: [verify](https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N)
+#### Verify LWS Reactive Accelerator Course Certificate: [verify](https://learnwithsumit.com/certificates/verify/LWSCTXN-OKGOI74M)
+
+<div class='cert'>
+<a href='https://learnwithsumit.com/certificates/verify/LWSCTXN-OKGOI74M' target="_blank">
+    <img src="img/rnext-LWS-Excellence-Certificate.jpg" alt="1" style="width: 260px;">
+</a>
+
+<a href='https://learnwithsumit.com/certificates/verify/LWSCTXN-OKGOI74M' target="_blank">
+    <img src="img/rnext-LWS-Certificate.jpg" alt="1" style="width: 260px;">
+</a>
+
+<a href='https://learnwithsumit.com/certificates/verify/LWSCTXN-OKGOI74M' target="_blank">
+    <img src="img/rnext-LWS-Recommendation-Letter.jpg" alt="1" style="width: 260px;">
+</a>
+</div>
+
+<br>
+
+#### Verify LWS Think In A Redux Way Certificate: [verify](https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N)
 
 <div class='cert'>
 <a href='https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N' target="_blank">
