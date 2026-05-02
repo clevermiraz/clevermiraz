@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C6FF7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Miraz+%F0%9F%91%8B;Full-Stack+Web+Developer;Making+Websites+Dance+%F0%9F%95%BA%F0%9F%8F%BD;Next.js+%7C+React+%7C+Django" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C6FF7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Miraz+%F0%9F%91%8B;Full-Stack+Web+Developer;One+Man+Army+%F0%9F%AA%A9;Next.js+%7C+React+%7C+Django" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,23 +26,6 @@
   </a>
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-```js
-const miraz = {
-  role        : "Full-Stack Developer",
-  passion     : "Making websites dance 🕺🏽",
-  languages   : ["JavaScript", "Python"],
-  stack       : ["Next.js", "React", "Django"],
-  learning    : ["Three.js", "Web3.js", "AI/LLMs"],
-  building    : "chapterclose.com → 2k visitors/month 📈",
-  askMeAbout  : ["Web Dev", "React", "Django", "Content Creation"],
-};
-```
-
----
 
 ## 🔥 Tech Stack
 
@@ -65,11 +48,6 @@ const miraz = {
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clevermiraz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clevermiraz&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=clevermiraz&theme=tokyonight&hide_border=true&border_radius=5" />
