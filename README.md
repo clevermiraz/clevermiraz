@@ -110,6 +110,8 @@
 <div align="center">
   
   ![Visitors](https://komarev.com/ghpvc/?username=clevermiraz&style=for-the-badge&color=7C6FF7&label=Profile+Views)
+  
+  ![Stars](https://img.shields.io/badge/dynamic/json?label=⭐%20GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/clevermiraz&style=for-the-badge&color=7C6FF7&labelColor=1a1a2e)
 
   <br/>
 
