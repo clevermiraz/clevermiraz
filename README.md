@@ -1,119 +1,110 @@
-<h1 align="center">
-    Hello there, I'm Miraz <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>
-</h1>
+<div align="center">
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+```
+███╗   ███╗██╗██████╗  █████╗ ███████╗
+████╗ ████║██║██╔══██╗██╔══██╗╚══███╔╝
+██╔████╔██║██║██████╔╝███████║  ███╔╝ 
+██║╚██╔╝██║██║██╔══██╗██╔══██║ ███╔╝  
+██║ ╚═╝ ██║██║██║  ██║██║  ██║███████╗
+╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
 
-**I love working with**
+### ↳ making websites dance since forever 🕺🏽
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+[![Portfolio](https://img.shields.io/badge/mirazhs.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://mirazhs.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clevermiraz/)
+[![Medium](https://img.shields.io/badge/Medium-000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@mirazhs)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mirazhs.xy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=protonmail&logoColor=white)](mailto:mirazhs@protonmail.com)
+
 </div>
 
-### 🔭 I’m working on
+---
 
--   Share My knowledge with make content.
--   Growing [chapterclose](https://chapterclose.com) to 2k/month visitors.
+## `> whoami`
 
-<h4 align="center">
-  
-     If you're here please give me stars ⭐ And don't forget to follow
-    
-</h4>
+Full-stack developer with a love for crafting interactive, performant web experiences. I write HTML, CSS, and JavaScript — and occasionally convince the browser to do things it didn't know it could do.
 
-### 🌱 I’m learning
+Currently growing **[chapterclose.com](https://chapterclose.com)** → `target: 2k visitors/month` 📈  
+Always creating content to share what I learn along the way.
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.Js"/>
-  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt='openAI' />
+---
+
+## `> tech.stack`
+
+**Shipping with**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+
+**Exploring**
+
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+## `> git log --stats`
+
+<div align="center">
+
+![Miraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=clevermiraz&rank_icon=github&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clevermiraz&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9)](https://github.com/clevermiraz)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=clevermiraz&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
 </div>
 
-### Connect with me:
+---
 
-<p align="left" dir="auto">
-<!-- <a href="https://t.me/romanbugrin7" rel="nofollow"><img align="center" src="img/Telegram.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
-<a href="https://vk.com/bugrinroman" rel="nofollow"><img align="center" src="img/vk.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com/roman.bugrin/" rel="nofollow"><img align="center" src="img/inst.svg" alt="1" height="40" width="40" style="max-width: 100%;"></a> -->
-### 📫 How to reach me
+## `> ls ./certificates`
 
-<div display="flex">
-  <a href="https://mirazhs.vercel.app" target="_blank">
-    <img src="https://camo.githubusercontent.com/fb1b4c7358e79e096ff46570359d0f05d4c3290ce2048046fcf5f25e152a49e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56696577253230506f7274666f6c696f2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7274666f6c696f266c6f676f436f6c6f723d7768697465" alt="View Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/clevermiraz/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://facebook.com/mirazhs.xy" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://medium.com/@mirazhs" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="mailto:mirazhs@protonmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
-### My languages:
-
-<p align="left" dir="auto">
-    <img align="center" src="img/python.svg" alt="1" height="40" width="40" style="max-width: 100%;">
-    <img align="center" src="img/js.svg" alt="1" height="40" width="40" style="max-width: 100%;">
-</p>
-
+<details>
+<summary><b>🏅 HackerRank — Python (Basic)</b> <code>verify →</code></summary>
 <br>
 
-<div class='cert'>
-<a href='https://www.hackerrank.com/certificates/d4becfbc5b24' target="_blank">
-    <img src="img/python_certificate.png" alt="1" style="width: 260px;">
-</a>
-</div>
+[![Python Certificate](img/python_certificate.png)](https://www.hackerrank.com/certificates/d4becfbc5b24)
 
-##### [verify](https://www.hackerrank.com/certificates/d4becfbc5b24)
+**[🔗 Verify Certificate](https://www.hackerrank.com/certificates/d4becfbc5b24)**
 
+</details>
+
+<details>
+<summary><b>🏅 LWS — Reactive Accelerator (Next.js + React)</b> <code>verify →</code></summary>
 <br>
 
-#### Verify LWS Reactive Accelerator Course Certificate: [verify](https://learnwithsumit.com/certificates/verify/LWSCTXN-OKGOI74M)
+| Excellence | Completion | Recommendation |
+|:---:|:---:|:---:|
+| [![](img/rnext-LWS-Excellence-Certificate.jpg)](https://learnwithsumit.com/certificates/verify/LWSCTXN-OKGOI74M) | [![](img/rnext-LWS-Certificate.jpg)](https://learnwithsumit.com/certificates/verify/LWSCTXN-OKGOI74M) | [![](img/rnext-LWS-Recommendation-Letter.jpg)](https://learnwithsumit.com/certificates/verify/LWSCTXN-OKGOI74M) |
 
-<div class='cert'>
-<a href='https://learnwithsumit.com/certificates/verify/LWSCTXN-OKGOI74M' target="_blank">
-    <img src="img/rnext-LWS-Excellence-Certificate.jpg" alt="1" style="width: 260px;">
-</a>
+**[🔗 Verify Certificate](https://learnwithsumit.com/certificates/verify/LWSCTXN-OKGOI74M)**
 
-<a href='https://learnwithsumit.com/certificates/verify/LWSCTXN-OKGOI74M' target="_blank">
-    <img src="img/rnext-LWS-Certificate.jpg" alt="1" style="width: 260px;">
-</a>
+</details>
 
-<a href='https://learnwithsumit.com/certificates/verify/LWSCTXN-OKGOI74M' target="_blank">
-    <img src="img/rnext-LWS-Recommendation-Letter.jpg" alt="1" style="width: 260px;">
-</a>
-</div>
-
+<details>
+<summary><b>🏅 LWS — Think In A Redux Way</b> <code>verify →</code></summary>
 <br>
 
-#### Verify LWS Think In A Redux Way Certificate: [verify](https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N)
+| Certificate | Recommendation | Report Card |
+|:---:|:---:|:---:|
+| [![](img/LWS-Certificate-Redux.jpg)](https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N) | [![](img/LWS-Recommendation-Letter-Redux.jpg)](https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N) | [![](img/LWS-Report-Card.jpg)](https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N) |
 
-<div class='cert'>
-<a href='https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N' target="_blank">
-    <img src="img/LWS-Certificate-Redux.jpg" alt="1" style="width: 260px;">
-</a>
+**[🔗 Verify Certificate](https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N)**
 
-<a href='https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N' target="_blank">
-    <img src="img/LWS-Recommendation-Letter-Redux.jpg" alt="1" style="width: 260px;">
-</a>
+</details>
 
-<a href='https://learnwithsumit.com/certificates/verify/LWSCTXN-U8WKAI0N' target="_blank">
-    <img src="img/LWS-Report-Card.jpg" alt="1" style="width: 260px;">
-</a>
+---
+
+<div align="center">
+
+![Stars](https://img.shields.io/badge/dynamic/json?label=⭐%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/clevermiraz&style=flat-square&color=000&labelColor=58a6ff)
+![Visitors](https://komarev.com/ghpvc/?username=clevermiraz&style=flat-square&color=58a6ff&label=👁%20Profile%20Views)
+
+*If you're here — drop a ⭐ and hit follow. It means a lot.*
+
 </div>
-<br><br>
-
-![Miraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=clevermiraz&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clevermiraz&hide_border=true&layout=compact)](https://github.com/clevermiraz)
-
-<!-- Show Flower stars and Visitor Badge -->
-![](https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/clevermiraz)
-![Visitor count](https://komarev.com/ghpvc/?username=clevermiraz&color=blue&style=for-the-badge)
