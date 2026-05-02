@@ -108,10 +108,10 @@
 ---
 
 <div align="center">
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=clevermiraz&style=for-the-badge&color=7C6FF7&label=Profile+Views)
-  
-  ![Stars](https://img.shields.io/badge/dynamic/json?label=⭐%20GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/clevermiraz&style=for-the-badge&color=7C6FF7&labelColor=1a1a2e)
+
+  [![GitHub Stars](https://img.shields.io/github/stars/clevermiraz?style=for-the-badge&color=7C6FF7&labelColor=1a1a2e&logo=github&logoColor=white&label=⭐%20Total%20Stars)](https://github.com/clevermiraz)
+  [![GitHub Followers](https://img.shields.io/github/followers/clevermiraz?style=for-the-badge&color=7C6FF7&labelColor=1a1a2e&logo=github&logoColor=white&label=Followers)](https://github.com/clevermiraz?tab=followers)
+  ![Profile Views](https://komarev.com/ghpvc/?username=clevermiraz&style=for-the-badge&color=7C6FF7&label=Profile+Views)
 
   <br/>
 
